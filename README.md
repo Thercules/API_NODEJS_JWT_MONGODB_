@@ -10,18 +10,18 @@
 - Javascript
 - Node.JS
 - Express
-- JWT (Json Web Token)
 - MongoDB
 
 ### Bibliotecas utilizadas
 - Mongoose
 - Bcrypt 
 - DotEnv
+- JWT (Json Web Token)
 
 ### Pequenos atachments
 - Nodemon: Utilizado para atualização automatica do servidor.
 
-###Justificativa de escolha das tecnologias
+### Justificativa de escolha das tecnologias
 - Node.js: escolhido por ser uma plataforma de desenvolvimento em JavaScript no lado do servidor, com uma ampla comunidade e muitas bibliotecas disponíveis para diferentes fins.
 - Express.js: um framework web para Node.js que facilita a criação de rotas, middlewares e outras funcionalidades para aplicativos web, além de ter uma sintaxe simples e intuitiva.
 
@@ -38,6 +38,7 @@
 ### Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
+- [ ] Refatorar o código inteiro e dividir em arquivos de rota, controller, service e repository
 - [ ] Adicionar validações de entrada de dados
 - [ ] Implementar testes automatizados
 - [ ] Adicionar autenticação via OAuth2.
